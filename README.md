@@ -84,5 +84,40 @@ Footprinting maps what exists and scanning shows what is alive. Together they fo
 | ipconfig | `screenshots/ipconfig.png` |
 | Zenmap output (2 hosts up) | `screenshots/zenmap-output.png` |
 | Zenmap topology | `screenshots/zenmap-topology.png` |
+**Figure 1: WHOIS lookup**
+
+![WHOIS 1](IMG-20261112-WA0014.jpg)
+
+![WHOIS 2](IMG-20261112-WA0015.jpg)
+
+![WHOIS 3](IMG-20261112-WA0016.jpg)
+
+**Figure 2: WhatWeb**
+
+![WhatWeb](IMG-20261112-WA0011.jpg)
+
+**Figure 3: nslookup**
+
+![nslookup](IMG-20261112-WA0013.jpg)
+
+**Figure 4: curl -I**
+
+![curl](IMG-20261112-WA0017.jpg)
+
+**Figure 5: wafw00f**
+
+![wafw00f](IMG-20261112-WA0018.jpg)
+
+**Figure 6: dnsrecon**
+
+![dnsrecon](IMG-20261112-WA0012.jpg)
+
+**Figure 7: Zenmap output (2 hosts up)**
+
+![Zenmap output](IMG-20261112-WA0007%281%29.jpg)
+
+**Figure 8: Zenmap topology**
+
+![Zenmap topology](IMG-20261112-WA0008%281%29.jpg)
 
 Full report: [`W2-PMFINAL.pdf`](./W2-PMFINAL.pdf) | Topology: [`Nmap - Zenmap.pdf`](./Nmap%20-%20Zenmap.pdf)
