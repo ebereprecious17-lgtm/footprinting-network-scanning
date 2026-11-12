@@ -84,6 +84,7 @@ Footprinting maps what exists and scanning shows what is alive. Together they fo
 | ipconfig | `screenshots/ipconfig.png` |
 | Zenmap output (2 hosts up) | `screenshots/zenmap-output.png` |
 | Zenmap topology | `screenshots/zenmap-topology.png` |
+
 **Figure 1: WHOIS lookup**
 
 ![WHOIS 1](IMG-20261112-WA0014.jpg)
